@@ -12,7 +12,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ![App ScreenShot](https://i.postimg.cc/mrfZz1TQ/Screenshot-2024-10-18-153512.png)
 
-![App ScreenShot](hhttps://i.postimg.cc/SsVmvZCr/Screenshot-2024-10-18-153608.png)
+![App ScreenShot](https://i.postimg.cc/SsVmvZCr/Screenshot-2024-10-18-153608.png)
 
 ![App ScreenShot](https://i.postimg.cc/VvVmYd70/Screenshot-2024-10-18-153625.png)
 
